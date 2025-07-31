@@ -1,4 +1,3 @@
-Claro, aquí tienes un README.md completo y profesional. Puedes copiar y pegar este contenido en un archivo llamado README.md en la raíz de tu proyecto (fabrica-ropa).
 
 Proyecto: E-commerce y Diseñador para Fábrica de Ropa
 Este proyecto es una aplicación web completa que incluye un e-commerce (showroom) para la venta de productos y una plataforma B2B para que las empresas puedan diseñar ropa personalizada y solicitar cotizaciones.
